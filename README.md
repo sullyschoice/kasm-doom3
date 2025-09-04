@@ -6,7 +6,7 @@ Load this image into Kasm Workspaces by adding the Sully's Choice Kasm Workspace
 ## Manual Run
 
 ```bash
-sudo docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password ghcr.io/sullyschoice/kasm-doom3:latest
+sudo docker run --rm -it --shm-size=512m -p 6901:6901 -e VNC_PW=password sccr.sullyschoice.net/sullyschoice/kasm-doom3:latest
 ```
 
 Access via your browser: `https://<your ip>:6901` username: `kasm` , password: `password`
