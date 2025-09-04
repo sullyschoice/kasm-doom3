@@ -1,4 +1,4 @@
-# Kasm OpenArena
+# Kasm Doom 3
 Doom3 (Demo) docker image for Kasm Workspaces (https://kasmweb.com)
 
 Load this image into Kasm Workspaces by adding the Sully's Choice Kasm Workspace Registry: https://sullyschoice.github.io/kasm-registry/
